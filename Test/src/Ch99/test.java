@@ -1,4 +1,4 @@
-package Test_수박장수;
+package Ch99;
 
 
 class Buyer{
@@ -59,7 +59,7 @@ class Seller{
 	}
 }
 
-public class 수박장수 {
+public class test {
 
 	public static void main(String[] args) {
 		
